@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Baz65
 - 👀 I’m interested in field data capture and  geographicial informations systems.
-- 🌱 I’m currently learning about Postgresql databases
+- 🌱 I’m currently learning about Postgresql databases and also Python and GDAL systems
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
